@@ -1,0 +1,32 @@
+body {
+    background: #6c5b7b
+}
+
+#mainNavbar {
+    background-color: #f8b195;
+}
+
+#mainNavbar .nav-link:hover {
+    color: #F67280;
+}
+
+#mainNavbar .nav-link {
+    padding-right: 2rem;
+}
+
+
+#mainNavbar .navbar-brand {
+    color: #C06c84;
+}
+
+#siblings {
+    width: 700px;
+    height: auto;
+    top: 25px;
+    position: relative;
+}
+
+h2 {
+    color: #355C7D;
+    text-decoration: underline wavy;
+}
